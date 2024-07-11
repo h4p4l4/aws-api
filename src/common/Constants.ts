@@ -5,5 +5,8 @@ export const Constants = {
     APP_VERSION: 'APP_VERSION',
     APP_PORT: 'APP_PORT',
     DEV: 'development',
+    AWS_ACCESS_KEY_ID: 'AWS_ACCESS_KEY_ID',
+    AWS_SECRET_ACCESS_KEY: 'AWS_SECRET_ACCESS_KEY',
+    AWS_REGION: 'AWS_REGION',
   },
 };
